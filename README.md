@@ -15,12 +15,10 @@ El desarrollo de este proyecto implica la creación de una API REST en Visual St
 **BRYAN FERNANDO BURBANO CARVAJAL**  
 [LinkedIn](https://www.linkedin.com/in/bryanburbanocarvajal)  
 
-## Ver ejemplo en vivo
-[DEVELOPING-A-REST-API-WITH-JWT-AUTHENTICATION-CONNECTED-TO-A-MYSQL-DATABASE](https://bryancarvajal24.github.io/DEVELOPING-A-REST-API-WITH-JWT-AUTHENTICATION-CONNECTED-TO-A-MYSQL-DATABASE/)
 
 ## Instalación
 Este proyecto requiere la instalación de **Node.js** y un editor de código, como **Visual Studio Code**. Posteriormente, configura y ejecuta la API REST para conectarla a la base de datos MySQL utilizando cualquier herramienta de administración compatible como **MySQL Workbench**.
 
 
 ## Contratación
-Si quieres contratarme puedes escribirme a brayanpapupro123@gmail.com para consultas.
+Si quieres contratarme puedes escribirme a bryanburbanocarvajal24@gmail.com para consultas.
